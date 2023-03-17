@@ -1,4 +1,4 @@
-# This is the Reinforcement Learning Homework Repository #
+# Reinforcement Learning Homework Repository #
 ## HW1 ##
 * part 1 in [`crossentropy_method.ipynb`](https://github.com/Shilovski/RL/blob/main/crossentropy_method.ipynb) after the __Training loop__ section
 * part 2 in [`deep_crossentropy_method.ipynb`](https://github.com/Shilovski/RL/blob/main/deep_crossentropy_method.ipynb) in the relevant part &mdash; __Homework part II__
