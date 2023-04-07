@@ -7,3 +7,8 @@ Also, the last block of code (after interrupting the LunarLander training cycle 
 The training result of agent with an average reward of `55.568` is presented below.
 
 ![LunarLander](https://user-images.githubusercontent.com/75098744/225776654-7c0dbc05-8cac-49ef-bda2-ddb4656a4ddb.gif)
+
+
+## [`HW2`](https://github.com/Shilovski/RL/blob/main/seminar_vi.ipynb) ##
+* HW Part 1: my MDP converges at 56 iterations
+* HW Part 2: in __Your PI Results__ compares _PI_ and _VI_ first on FrozenLake __4x4__ then on __8x8__. In both cases, there is a gain in convergence and average reward for __PI__.
