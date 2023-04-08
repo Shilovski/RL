@@ -14,3 +14,8 @@ Presented in the [`seminar_vi`](https://github.com/Shilovski/RL/blob/main/semina
 
 * HW2 Part 1: my MDP converges at 56 iterations
 * HW2 Part 2: in __Your PI Results__ compares _PI_ and _VI_ first on FrozenLake __4x4__ then on __8x8__. In both cases, there is a gain in convergence and average reward for __PI__.
+
+## HW3 ##
+Presented in the [`homework`](https://github.com/Shilovski/RL/blob/main/homework.ipynb) file.
+
+Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy.
