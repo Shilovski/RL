@@ -13,10 +13,10 @@ The training result of agent with an average reward of `55.568` is presented bel
 Presented in the [`seminar_vi`](https://github.com/Shilovski/RL/blob/main/seminar_vi.ipynb) file.
 
 * HW2 Part 1: my MDP converges at 56 iterations
-* HW2 Part 2: in __Your PI Results__ compares _PI_ and _VI_ first on FrozenLake __4x4__ then on __8x8__. In both cases, there is a gain in convergence and average reward for __PI__.
+* HW2 Part 2: in __Your PI Results__ compares _PI_ and _VI_ first on FrozenLake __4x4__ then on __8x8__. In both cases, there is a gain in convergence and average reward for __PI__
 
 ## HW3 ##
 Presented in the [`homework`](https://github.com/Shilovski/RL/blob/main/homework.ipynb) file.
 
-* Part I: Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy.
-* Part II: Training with _experience replay_.
+* Part I: Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy. Also plotted the results for _EV_SARSA_, _EV_SARSA_SOFTMAX_ and _Q_LEARNING_
+* Part II: Training with __experience replay__
