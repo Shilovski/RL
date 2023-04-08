@@ -18,4 +18,5 @@ Presented in the [`seminar_vi`](https://github.com/Shilovski/RL/blob/main/semina
 ## HW3 ##
 Presented in the [`homework`](https://github.com/Shilovski/RL/blob/main/homework.ipynb) file.
 
-Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy.
+* Part I: Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy.
+* Part II: Training with _experience replay_.
