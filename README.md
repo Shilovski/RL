@@ -20,3 +20,9 @@ Presented in the [`homework`](https://github.com/Shilovski/RL/blob/main/homework
 
 * Part I: Implemented Expected Value _SARSA_ and Expected Value _SARSA_ for __softmax__ policy. Also plotted the results for _EV_SARSA_, _EV_SARSA_SOFTMAX_ and _Q_LEARNING_
 * Part II: Training with __experience replay__
+
+## HW4 ##
+Presented in the [`homework_pytorch_main`](https://github.com/Shilovski/RL/blob/main/homework_pytorch_main.ipynb) file.
+Trained with buffer size `10**6`. The training took approximately 15 hours and 17 minutes, 2010000 iterations with epsilon going up to 0.1; final score: `9.8`.
+
+![output](https://user-images.githubusercontent.com/75098744/230773054-32c21541-d317-4f57-aea2-1443375492fc.gif)
