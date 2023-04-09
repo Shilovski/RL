@@ -25,4 +25,4 @@ Presented in the [`homework`](https://github.com/Shilovski/RL/blob/main/homework
 Presented in the [`homework_pytorch_main`](https://github.com/Shilovski/RL/blob/main/homework_pytorch_main.ipynb) file.
 Trained with buffer size `10**6`. The training took approximately 15 hours and 17 minutes, 2010000 iterations with epsilon going up to 0.1; final score: `9.8`.
 
-![output](https://user-images.githubusercontent.com/75098744/230773054-32c21541-d317-4f57-aea2-1443375492fc.gif)
+![output (1)](https://user-images.githubusercontent.com/75098744/230775579-5d7c100c-8600-4aeb-8b69-1bd469640313.gif)
